@@ -1,0 +1,11 @@
+{
+  "name": "VYLO",
+  "description": "Thrive. Ascend. Evolve. AI-driven campus fitness, personalized diet, live motion form tracking, daily quests, and community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
